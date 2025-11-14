@@ -59,10 +59,10 @@
     H15 --> End
     
     %% Styling
-    classDef featureStyle fill:#2B98E0,stroke:#FFFFFF,stroke-width:2px
-    classDef releaseStyle fill:#60B846,stroke:#FFFFFF,stroke-width:2px
-    classDef hotfixStyle fill:#E34F81,stroke:#FFFFFF,stroke-width:2px
-    classDef decisionStyle fill:#FFEA69,stroke:#FFFFFF,stroke-width:3px
+    classDef featureStyle fill:#2B98E0,stroke:#000000,stroke-width:2px
+    classDef releaseStyle fill:#E02B3D,stroke:#000000,stroke-width:2px
+    classDef hotfixStyle fill:#E0CE2B,stroke:#000000,stroke-width:2px
+    classDef decisionStyle fill:#FC8888,stroke:#000000,stroke-width:3px
     
     class F1,F2,F3,F4,F5,F6,F7,F8,F9,F10,F11,F12,F13,F14 featureStyle
     class R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15 releaseStyle
